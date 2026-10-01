@@ -1,0 +1,20 @@
+services:
+  - type: web
+    name: sleeper-mcp
+    runtime: node
+    plan: free
+    buildCommand: echo "nothing to build"
+    startCommand: node server.js
+    healthCheckPath: /health
+    autoDeploy: true
+    envVars:
+      - key: NODE_VERSION
+        value: "22"
+      - key: PROP_LOG
+        value: "off"
+      - key: LEAGUE_ID
+        sync: false
+      - key: MY_TEAM
+        sync: false
+      - key: MCP_PATH
+        sync: false

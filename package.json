@@ -1,0 +1,9 @@
+{
+  "name": "sleeper-mcp",
+  "version": "2.0.0",
+  "description": "Claude connector for a Sleeper fantasy football league: rosters, projections, props. Cloud-ready.",
+  "type": "module",
+  "main": "server.js",
+  "engines": { "node": ">=18" },
+  "scripts": { "start": "node server.js", "log-props": "node scripts/log_props.mjs" }
+}
