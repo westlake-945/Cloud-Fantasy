@@ -54,7 +54,7 @@ export const PROVIDERS = {
       }
       if (!shapes.sleeper_line) shapes.sleeper_line = Object.keys(r);
       if (!p || line == null || isNaN(+line)) continue;
-      out.push({ player: p.name, position: p.pos, team: p.team || "", stat, line: +line, over_mult: num(mult) });
+      out.push({ player: p.name, position: p.pos, team: p.team || "", stat, line: +line, over_mult: num(mult), pick_stats: r.pick_stats ?? null });
     }
     return out;
   },
@@ -99,6 +99,12 @@ export async function collectProps(P) {
 
 export const csvLine = (ts, r) =>
   [ts, r.provider, String(r.player).replace(/[",]/g, " "), r.position, r.team, r.stat, r.line, r.over_mult ?? ""].join(",");
+
+// Crowd lean ("pick_stats") goes to its own file so the main log's columns never change.
+export const PICK_HEADER = "ts,provider,player,position,team,stat,line,pick_stats";
+const q = (v) => `"${String(v).replace(/"/g, '""')}"`;
+export const pickLine = (ts, r) =>
+  [ts, r.provider, String(r.player).replace(/[",]/g, " "), r.position, r.team, r.stat, r.line, q(JSON.stringify(r.pick_stats))].join(",");
 
 // prop-implied PPR (receptions + yards/10 + pass yds/25 + pass TD*4 - INT*2). Anytime-TD lines are not included.
 export function impliedPPR(lines) {
