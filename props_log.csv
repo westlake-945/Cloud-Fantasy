@@ -88788,3 +88788,255 @@ ts,provider,player,position,team,stat,line,over_mult
 2026-11-03T00:44:00.014Z,sleeper,Kyler Murray,QB,MIN,fantasy_pts,16.6,1.78
 2026-11-03T00:44:00.014Z,sleeper,Dawson Knox,TE,BUF,fantasy_pts,3.2,1.79
 2026-11-03T00:44:00.014Z,sleeper,James Cook III,RB,BUF,fantasy_pts,16.1,1.78
+2026-11-03T13:51:07.595Z,sleeper,Chris Rodriguez Jr.,RB,JAX,anytime_touchdowns,0.5,2.07
+2026-11-03T13:51:07.595Z,sleeper,Chris Rodriguez Jr.,RB,JAX,longest_rush,10.5,1.8
+2026-11-03T13:51:07.595Z,sleeper,Chris Rodriguez Jr.,RB,JAX,rush_att,7.5,1.88
+2026-11-03T13:51:07.595Z,sleeper,Chris Rodriguez Jr.,RB,JAX,rush_yds,30.5,1.8
+2026-11-03T13:51:07.595Z,sleeper,Brian Thomas Jr.,WR,JAX,longest_reception,9.5,1.83
+2026-11-03T13:51:07.595Z,sleeper,Brian Thomas Jr.,WR,JAX,rec_yds,10.5,1.76
+2026-11-03T13:51:07.595Z,sleeper,Brian Thomas Jr.,WR,JAX,receptions,1.5,2.38
+2026-11-03T13:51:07.595Z,sleeper,Bhayshul Tuten,RB,JAX,anytime_touchdowns,0.5,1.99
+2026-11-03T13:51:07.595Z,sleeper,Bhayshul Tuten,RB,JAX,longest_rush,14.5,1.79
+2026-11-03T13:51:07.595Z,sleeper,Bhayshul Tuten,RB,JAX,rec_yds,13.5,1.82
+2026-11-03T13:51:07.595Z,sleeper,Bhayshul Tuten,RB,JAX,receptions,2.5,2.08
+2026-11-03T13:51:07.595Z,sleeper,Bhayshul Tuten,RB,JAX,rush_rec_yds,83.5,1.78
+2026-11-03T13:51:07.595Z,sleeper,Bhayshul Tuten,RB,JAX,rush_att,16.5,1.77
+2026-11-03T13:51:07.595Z,sleeper,Bhayshul Tuten,RB,JAX,rush_yds,67.5,1.79
+2026-11-03T13:51:07.595Z,sleeper,Josh Cuevas,TE,BAL,rec_yds,7.5,1.75
+2026-11-03T13:51:07.595Z,sleeper,Josh Cuevas,TE,BAL,receptions,1.5,2.21
+2026-11-03T13:51:07.595Z,sleeper,Ja'Kobi Lane,WR,BAL,rec_yds,16.5,1.8
+2026-11-03T13:51:07.595Z,sleeper,Ja'Kobi Lane,WR,BAL,receptions,1.5,1.7
+2026-11-03T13:51:07.595Z,sleeper,Nate Boerkircher,TE,JAX,rec_yds,7.5,1.8
+2026-11-03T13:51:07.595Z,sleeper,Nate Boerkircher,TE,JAX,receptions,0.5,1.39
+2026-11-03T13:51:07.595Z,sleeper,Joe Fagnano,QB,BAL,pass_completions,15.5,1.88
+2026-11-03T13:51:07.595Z,sleeper,Joe Fagnano,QB,BAL,pass_att,29.5,1.79
+2026-11-03T13:51:07.595Z,sleeper,Joe Fagnano,QB,BAL,pass_td,0.5,1.55
+2026-11-03T13:51:07.595Z,sleeper,Joe Fagnano,QB,BAL,pass_yds,165.5,1.77
+2026-11-03T13:51:07.595Z,sleeper,Josh Cameron,WR,JAX,longest_reception,11.5,1.81
+2026-11-03T13:51:07.595Z,sleeper,Josh Cameron,WR,JAX,rec_yds,15.5,1.8
+2026-11-03T13:51:07.595Z,sleeper,Josh Cameron,WR,JAX,receptions,1.5,1.69
+2026-11-03T13:51:07.595Z,sleeper,Derrick Henry,RB,BAL,anytime_touchdowns,0.5,1.81
+2026-11-03T13:51:07.595Z,sleeper,Derrick Henry,RB,BAL,longest_rush,14.5,1.79
+2026-11-03T13:51:07.595Z,sleeper,Derrick Henry,RB,BAL,rec_yds,7.5,1.84
+2026-11-03T13:51:07.595Z,sleeper,Derrick Henry,RB,BAL,receptions,1.5,1.89
+2026-11-03T13:51:07.595Z,sleeper,Derrick Henry,RB,BAL,rush_rec_yds,82.5,1.8
+2026-11-03T13:51:07.595Z,sleeper,Derrick Henry,RB,BAL,rush_att,17.5,1.7
+2026-11-03T13:51:07.595Z,sleeper,Derrick Henry,RB,BAL,rush_yds,69.5,1.77
+2026-11-03T13:51:07.595Z,sleeper,Mark Andrews,TE,BAL,longest_reception,10.5,1.72
+2026-11-03T13:51:07.595Z,sleeper,Mark Andrews,TE,BAL,rec_yds,18.5,1.75
+2026-11-03T13:51:07.595Z,sleeper,Mark Andrews,TE,BAL,receptions,2.5,1.68
+2026-11-03T13:51:07.595Z,sleeper,Jakobi Meyers,WR,JAX,anytime_touchdowns,0.5,3.36
+2026-11-03T13:51:07.595Z,sleeper,Jakobi Meyers,WR,JAX,longest_reception,18.5,1.75
+2026-11-03T13:51:07.595Z,sleeper,Jakobi Meyers,WR,JAX,rec_yds,40.5,1.8
+2026-11-03T13:51:07.595Z,sleeper,Jakobi Meyers,WR,JAX,receptions,3.5,2.01
+2026-11-03T13:51:07.595Z,sleeper,Justice Hill,RB,BAL,rec_yds,13.5,1.83
+2026-11-03T13:51:07.595Z,sleeper,Justice Hill,RB,BAL,receptions,2.5,2.01
+2026-11-03T13:51:07.595Z,sleeper,Justice Hill,RB,BAL,rush_rec_yds,34.5,1.77
+2026-11-03T13:51:07.595Z,sleeper,Justice Hill,RB,BAL,rush_yds,17.5,1.82
+2026-11-03T13:51:07.595Z,sleeper,Trevor Lawrence,QB,JAX,interceptions,0.5,1.87
+2026-11-03T13:51:07.595Z,sleeper,Trevor Lawrence,QB,JAX,longest_passing_completion,37.5,1.79
+2026-11-03T13:51:07.595Z,sleeper,Trevor Lawrence,QB,JAX,pass_completions,19.5,1.81
+2026-11-03T13:51:07.595Z,sleeper,Trevor Lawrence,QB,JAX,pass_rush_yds,251.5,1.79
+2026-11-03T13:51:07.595Z,sleeper,Trevor Lawrence,QB,JAX,pass_att,31.5,1.77
+2026-11-03T13:51:07.595Z,sleeper,Trevor Lawrence,QB,JAX,pass_td,1.5,1.61
+2026-11-03T13:51:07.595Z,sleeper,Trevor Lawrence,QB,JAX,pass_yds,238.5,1.78
+2026-11-03T13:51:07.595Z,sleeper,Trevor Lawrence,QB,JAX,rush_att,3.5,1.78
+2026-11-03T13:51:07.595Z,sleeper,Trevor Lawrence,QB,JAX,rush_yds,12.5,1.83
+2026-11-03T13:51:07.595Z,sleeper,Rashod Bateman,WR,BAL,longest_reception,11.5,1.81
+2026-11-03T13:51:07.595Z,sleeper,Rashod Bateman,WR,BAL,rec_yds,15.5,1.75
+2026-11-03T13:51:07.595Z,sleeper,Rashod Bateman,WR,BAL,receptions,1.5,1.72
+2026-11-03T13:51:07.595Z,sleeper,Brenton Strange,TE,JAX,anytime_touchdowns,0.5,2.92
+2026-11-03T13:51:07.595Z,sleeper,Brenton Strange,TE,JAX,longest_reception,16.5,1.76
+2026-11-03T13:51:07.595Z,sleeper,Brenton Strange,TE,JAX,rec_yds,34.5,1.76
+2026-11-03T13:51:07.595Z,sleeper,Brenton Strange,TE,JAX,receptions,3.5,1.72
+2026-11-03T13:51:07.595Z,sleeper,Parker Washington,WR,JAX,anytime_touchdowns,0.5,2.16
+2026-11-03T13:51:07.595Z,sleeper,Parker Washington,WR,JAX,longest_reception,24.5,1.8
+2026-11-03T13:51:07.595Z,sleeper,Parker Washington,WR,JAX,rec_yds,63.5,1.79
+2026-11-03T13:51:07.595Z,sleeper,Parker Washington,WR,JAX,receptions,4.5,1.87
+2026-11-03T13:51:07.595Z,sleeper,Zay Flowers,WR,BAL,anytime_touchdowns,0.5,3.5
+2026-11-03T13:51:07.595Z,sleeper,Zay Flowers,WR,BAL,longest_reception,18.5,1.81
+2026-11-03T13:51:07.595Z,sleeper,Zay Flowers,WR,BAL,rec_yds,44.5,1.78
+2026-11-03T13:51:07.595Z,sleeper,Zay Flowers,WR,BAL,receptions,3.5,1.55
+2026-11-03T13:51:07.595Z,sleeper,Brian Thomas Jr.,WR,JAX,fantasy_pts,2.5,1.79
+2026-11-03T13:51:07.595Z,sleeper,Ja'Kobi Lane,WR,BAL,fantasy_pts,3.4,1.79
+2026-11-03T13:51:07.595Z,sleeper,Nate Boerkircher,TE,JAX,fantasy_pts,2.2,1.76
+2026-11-03T13:51:07.595Z,sleeper,Josh Cameron,WR,JAX,fantasy_pts,3.5,1.78
+2026-11-03T13:51:07.595Z,sleeper,Derrick Henry,RB,BAL,fantasy_pts,13,1.78
+2026-11-03T13:51:07.595Z,sleeper,Mark Andrews,TE,BAL,fantasy_pts,5.1,1.79
+2026-11-03T13:51:07.595Z,sleeper,Jakobi Meyers,WR,JAX,fantasy_pts,8,1.78
+2026-11-03T13:51:07.595Z,sleeper,Justice Hill,RB,BAL,fantasy_pts,6.3,1.78
+2026-11-03T13:51:07.595Z,sleeper,Trevor Lawrence,QB,JAX,fantasy_pts,18.3,1.78
+2026-11-03T13:51:07.595Z,sleeper,Rashod Bateman,WR,BAL,fantasy_pts,3.5,1.79
+2026-11-03T13:51:07.595Z,sleeper,Brenton Strange,TE,JAX,fantasy_pts,8.5,1.78
+2026-11-03T13:51:07.595Z,sleeper,Parker Washington,WR,JAX,fantasy_pts,13.2,1.78
+2026-11-03T13:51:07.595Z,sleeper,Zay Flowers,WR,BAL,fantasy_pts,9,1.78
+2026-11-03T13:51:07.595Z,sleeper,Michael Penix Jr.,QB,ATL,longest_passing_completion,35.5,1.76
+2026-11-03T13:51:07.595Z,sleeper,Michael Penix Jr.,QB,ATL,pass_completions,20.5,1.83
+2026-11-03T13:51:07.595Z,sleeper,Michael Penix Jr.,QB,ATL,pass_att,31.5,1.81
+2026-11-03T13:51:07.595Z,sleeper,Michael Penix Jr.,QB,ATL,pass_td,1.5,1.96
+2026-11-03T13:51:07.595Z,sleeper,Michael Penix Jr.,QB,ATL,pass_yds,221.5,1.78
+2026-11-03T13:51:07.595Z,sleeper,Samaje Perine,RB,CIN,anytime_touchdowns,0.5,3.23
+2026-11-03T13:51:07.595Z,sleeper,Mike Gesicki,TE,CIN,anytime_touchdowns,0.5,2.9
+2026-11-03T13:51:07.595Z,sleeper,Mike Gesicki,TE,CIN,longest_reception,15.5,1.84
+2026-11-03T13:51:07.595Z,sleeper,Mike Gesicki,TE,CIN,rec_yds,27.5,1.79
+2026-11-03T13:51:07.595Z,sleeper,Mike Gesicki,TE,CIN,receptions,2.5,1.79
+2026-11-03T13:51:07.595Z,sleeper,Joe Burrow,QB,CIN,longest_passing_completion,38.5,1.76
+2026-11-03T13:51:07.595Z,sleeper,Joe Burrow,QB,CIN,pass_completions,24.5,1.78
+2026-11-03T13:51:07.595Z,sleeper,Joe Burrow,QB,CIN,pass_td,2.5,2.35
+2026-11-03T13:51:07.595Z,sleeper,Joe Burrow,QB,CIN,pass_yds,268.5,1.79
+2026-11-03T13:51:07.595Z,sleeper,Tee Higgins,WR,CIN,anytime_touchdowns,0.5,2.06
+2026-11-03T13:51:07.595Z,sleeper,Tee Higgins,WR,CIN,longest_reception,24.5,1.81
+2026-11-03T13:51:07.595Z,sleeper,Tee Higgins,WR,CIN,rec_yds,71.5,1.77
+2026-11-03T13:51:07.595Z,sleeper,Tee Higgins,WR,CIN,receptions,5.5,2.02
+2026-11-03T13:51:07.595Z,sleeper,Kyle Pitts Sr.,TE,ATL,anytime_touchdowns,0.5,3.35
+2026-11-03T13:51:07.595Z,sleeper,Kyle Pitts Sr.,TE,ATL,longest_reception,17.5,1.79
+2026-11-03T13:51:07.595Z,sleeper,Kyle Pitts Sr.,TE,ATL,rec_yds,40.5,1.78
+2026-11-03T13:51:07.595Z,sleeper,Kyle Pitts Sr.,TE,ATL,receptions,3.5,1.55
+2026-11-03T13:51:07.595Z,sleeper,Ja'Marr Chase,WR,CIN,anytime_touchdowns,0.5,1.78
+2026-11-03T13:51:07.595Z,sleeper,Ja'Marr Chase,WR,CIN,longest_reception,23.5,1.76
+2026-11-03T13:51:07.595Z,sleeper,Ja'Marr Chase,WR,CIN,rec_yds,74.5,1.77
+2026-11-03T13:51:07.595Z,sleeper,Ja'Marr Chase,WR,CIN,receptions,6.5,1.8
+2026-11-03T13:51:07.595Z,sleeper,Drake London,WR,ATL,anytime_touchdowns,0.5,2.18
+2026-11-03T13:51:07.595Z,sleeper,Drake London,WR,ATL,longest_reception,24.5,1.79
+2026-11-03T13:51:07.595Z,sleeper,Drake London,WR,ATL,rec_yds,77.5,1.78
+2026-11-03T13:51:07.595Z,sleeper,Drake London,WR,ATL,receptions,5.5,1.66
+2026-11-03T13:51:07.595Z,sleeper,Jahan Dotson,WR,ATL,anytime_touchdowns,0.5,3.52
+2026-11-03T13:51:07.595Z,sleeper,Chase Brown,RB,CIN,anytime_touchdowns,0.5,1.61
+2026-11-03T13:51:07.595Z,sleeper,Chase Brown,RB,CIN,rec_yds,19.5,1.76
+2026-11-03T13:51:07.595Z,sleeper,Chase Brown,RB,CIN,receptions,3.5,1.73
+2026-11-03T13:51:07.595Z,sleeper,Chase Brown,RB,CIN,rush_rec_yds,79.5,1.79
+2026-11-03T13:51:07.595Z,sleeper,Chase Brown,RB,CIN,rush_att,14.5,1.76
+2026-11-03T13:51:07.595Z,sleeper,Chase Brown,RB,CIN,rush_yds,55.5,1.78
+2026-11-03T13:51:07.595Z,sleeper,Bijan Robinson,RB,ATL,anytime_touchdowns,0.5,1.41
+2026-11-03T13:51:07.595Z,sleeper,Bijan Robinson,RB,ATL,longest_rush,16.5,1.72
+2026-11-03T13:51:07.595Z,sleeper,Bijan Robinson,RB,ATL,rush_att,19.5,1.76
+2026-11-03T13:51:07.595Z,sleeper,Bijan Robinson,RB,ATL,rush_yds,95.5,1.79
+2026-11-03T13:51:07.595Z,sleeper,Mike Gesicki,TE,CIN,fantasy_pts,6.6,1.79
+2026-11-03T13:51:07.595Z,sleeper,Olamide Zaccheaus,WR,ATL,fantasy_pts,3.3,1.79
+2026-11-03T13:51:07.595Z,sleeper,Joe Burrow,QB,CIN,fantasy_pts,19.6,1.78
+2026-11-03T13:51:07.595Z,sleeper,Tee Higgins,WR,CIN,fantasy_pts,15.1,1.77
+2026-11-03T13:51:07.595Z,sleeper,Kyle Pitts Sr.,TE,ATL,fantasy_pts,9,1.78
+2026-11-03T13:51:07.595Z,sleeper,Ja'Marr Chase,WR,CIN,fantasy_pts,17.6,1.78
+2026-11-03T13:51:07.595Z,sleeper,Drake London,WR,ATL,fantasy_pts,16,1.78
+2026-11-03T13:51:07.595Z,sleeper,Chase Brown,RB,CIN,fantasy_pts,16,1.77
+2026-11-03T13:51:07.595Z,sleeper,Bijan Robinson,RB,ATL,fantasy_pts,22,1.78
+2026-11-03T13:51:07.595Z,sleeper,Jalen Coker,WR,CAR,anytime_touchdowns,0.5,2.86
+2026-11-03T13:51:07.595Z,sleeper,Tetairoa McMillan,WR,CAR,anytime_touchdowns,0.5,2.57
+2026-11-03T13:51:07.595Z,sleeper,Jonah Coleman,RB,DEN,anytime_touchdowns,0.5,1.83
+2026-11-03T13:51:07.595Z,sleeper,J.K. Dobbins,RB,DEN,anytime_touchdowns,0.5,2.13
+2026-11-03T13:51:07.595Z,sleeper,Jaylen Waddle,WR,DEN,anytime_touchdowns,0.5,2.57
+2026-11-03T13:51:07.595Z,sleeper,Chuba Hubbard,RB,CAR,anytime_touchdowns,0.5,1.8
+2026-11-03T13:51:07.595Z,sleeper,Bo Nix,QB,DEN,fantasy_pts,15.5,1.78
+2026-11-03T13:51:07.595Z,sleeper,Tetairoa McMillan,WR,CAR,fantasy_pts,12.3,1.78
+2026-11-03T13:51:07.595Z,sleeper,Courtland Sutton,WR,DEN,fantasy_pts,8.7,1.78
+2026-11-03T13:51:07.595Z,sleeper,Bryce Young,QB,CAR,fantasy_pts,15.3,1.78
+2026-11-03T13:51:07.595Z,sleeper,CeeDee Lamb,WR,DAL,anytime_touchdowns,0.5,1.71
+2026-11-03T13:51:07.595Z,sleeper,Javonte Williams,RB,DAL,anytime_touchdowns,0.5,1.39
+2026-11-03T13:51:07.595Z,sleeper,George Pickens,WR,DAL,anytime_touchdowns,0.5,1.83
+2026-11-03T13:51:07.595Z,sleeper,Javonte Williams,RB,DAL,fantasy_pts,17.8,1.75
+2026-11-03T13:51:07.595Z,sleeper,George Pickens,WR,DAL,fantasy_pts,14.4,1.79
+2026-11-03T13:51:07.595Z,sleeper,Rashee Rice,WR,KC,anytime_touchdowns,0.5,2.18
+2026-11-03T13:51:07.595Z,sleeper,Travis Kelce,TE,KC,anytime_touchdowns,0.5,2.57
+2026-11-03T13:51:07.595Z,sleeper,Garrett Wilson,WR,NYJ,anytime_touchdowns,0.5,2.69
+2026-11-03T13:51:07.595Z,sleeper,Kenneth Walker III,RB,KC,anytime_touchdowns,0.5,1.45
+2026-11-03T13:51:07.595Z,sleeper,Omar Cooper Jr.,WR,NYJ,fantasy_pts,6,1.78
+2026-11-03T13:51:07.595Z,sleeper,Kenyon Sadiq,TE,NYJ,fantasy_pts,3.4,1.79
+2026-11-03T13:51:07.595Z,sleeper,Emmett Johnson,RB,KC,fantasy_pts,4.8,1.78
+2026-11-03T13:51:07.595Z,sleeper,Travis Kelce,TE,KC,fantasy_pts,11.3,1.78
+2026-11-03T13:51:07.595Z,sleeper,Garrett Wilson,WR,NYJ,fantasy_pts,12.1,1.78
+2026-11-03T13:51:07.595Z,sleeper,Sam LaPorta,TE,DET,anytime_touchdowns,0.5,2.55
+2026-11-03T13:51:07.595Z,sleeper,Malik Washington,WR,MIA,anytime_touchdowns,0.5,2.74
+2026-11-03T13:51:07.595Z,sleeper,Ollie Gordon II,RB,MIA,anytime_touchdowns,0.5,2.15
+2026-11-03T13:51:07.595Z,sleeper,Amon-Ra St. Brown,WR,DET,anytime_touchdowns,0.5,1.76
+2026-11-03T13:51:07.595Z,sleeper,Jameson Williams,WR,DET,anytime_touchdowns,0.5,2.34
+2026-11-03T13:51:07.595Z,sleeper,Malik Willis,QB,MIA,anytime_touchdowns,0.5,3.28
+2026-11-03T13:51:07.595Z,sleeper,Jahmyr Gibbs,RB,DET,anytime_touchdowns,0.5,1.24
+2026-11-03T13:51:07.595Z,sleeper,Sam LaPorta,TE,DET,fantasy_pts,9.4,1.79
+2026-11-03T13:51:07.595Z,sleeper,Malik Washington,WR,MIA,fantasy_pts,8.6,1.77
+2026-11-03T13:51:07.595Z,sleeper,Caleb Douglas,WR,MIA,fantasy_pts,6.6,1.77
+2026-11-03T13:51:07.595Z,sleeper,Amon-Ra St. Brown,WR,DET,fantasy_pts,18.6,1.79
+2026-11-03T13:51:07.595Z,sleeper,Jameson Williams,WR,DET,fantasy_pts,10.8,1.78
+2026-11-03T13:51:07.595Z,sleeper,Malik Willis,QB,MIA,fantasy_pts,16.5,1.78
+2026-11-03T13:51:07.595Z,sleeper,Greg Dulcich,TE,MIA,fantasy_pts,8.3,1.78
+2026-11-03T13:51:07.595Z,sleeper,Drake Maye,QB,NE,anytime_touchdowns,0.5,3.22
+2026-11-03T13:51:07.595Z,sleeper,Drake Maye,QB,NE,longest_passing_completion,35.5,1.77
+2026-11-03T13:51:07.595Z,sleeper,Drake Maye,QB,NE,longest_rush,11.5,1.81
+2026-11-03T13:51:07.595Z,sleeper,Drake Maye,QB,NE,pass_completions,20.5,1.8
+2026-11-03T13:51:07.595Z,sleeper,Drake Maye,QB,NE,pass_att,31.5,1.81
+2026-11-03T13:51:07.595Z,sleeper,Drake Maye,QB,NE,pass_td,1.5,1.76
+2026-11-03T13:51:07.595Z,sleeper,Drake Maye,QB,NE,pass_yds,229.5,1.78
+2026-11-03T13:51:07.595Z,sleeper,Drake Maye,QB,NE,rush_att,5.5,1.91
+2026-11-03T13:51:07.595Z,sleeper,Drake Maye,QB,NE,rush_yds,25.5,1.79
+2026-11-03T13:51:07.595Z,sleeper,Corey Kiner,RB,NE,anytime_touchdowns,0.5,3.25
+2026-11-03T13:51:07.595Z,sleeper,Matthew Golden,WR,GB,anytime_touchdowns,0.5,2.42
+2026-11-03T13:51:07.595Z,sleeper,Matthew Golden,WR,GB,longest_reception,23.5,1.78
+2026-11-03T13:51:07.595Z,sleeper,Matthew Golden,WR,GB,rec_yds,67.5,1.78
+2026-11-03T13:51:07.595Z,sleeper,Matthew Golden,WR,GB,receptions,5.5,2.03
+2026-11-03T13:51:07.595Z,sleeper,TreVeyon Henderson,RB,NE,anytime_touchdowns,0.5,3.21
+2026-11-03T13:51:07.595Z,sleeper,Efton Chism III,WR,NE,anytime_touchdowns,0.5,3.02
+2026-11-03T13:51:07.595Z,sleeper,Eli Raridon,TE,NE,anytime_touchdowns,0.5,2.77
+2026-11-03T13:51:07.595Z,sleeper,Hunter Henry,TE,NE,anytime_touchdowns,0.5,2.65
+2026-11-03T13:51:07.595Z,sleeper,Josh Jacobs,RB,GB,anytime_touchdowns,0.5,1.75
+2026-11-03T13:51:07.595Z,sleeper,Josh Jacobs,RB,GB,rec_yds,21.5,1.78
+2026-11-03T13:51:07.595Z,sleeper,Josh Jacobs,RB,GB,receptions,3.5,1.7
+2026-11-03T13:51:07.595Z,sleeper,Josh Jacobs,RB,GB,rush_rec_yds,69.5,1.78
+2026-11-03T13:51:07.595Z,sleeper,Josh Jacobs,RB,GB,rush_att,13.5,1.81
+2026-11-03T13:51:07.595Z,sleeper,Josh Jacobs,RB,GB,rush_yds,43.5,1.78
+2026-11-03T13:51:07.595Z,sleeper,A.J. Brown,WR,NE,anytime_touchdowns,0.5,2.61
+2026-11-03T13:51:07.595Z,sleeper,Jordan Love,QB,GB,pass_completions,23.5,1.76
+2026-11-03T13:51:07.595Z,sleeper,Jordan Love,QB,GB,pass_att,38.5,1.85
+2026-11-03T13:51:07.595Z,sleeper,Jordan Love,QB,GB,pass_td,1.5,1.74
+2026-11-03T13:51:07.595Z,sleeper,Jordan Love,QB,GB,pass_yds,273.5,1.78
+2026-11-03T13:51:07.595Z,sleeper,Rhamondre Stevenson,RB,NE,anytime_touchdowns,0.5,1.75
+2026-11-03T13:51:07.595Z,sleeper,Rhamondre Stevenson,RB,NE,longest_rush,12.5,1.74
+2026-11-03T13:51:07.595Z,sleeper,Rhamondre Stevenson,RB,NE,rush_att,14.5,1.79
+2026-11-03T13:51:07.595Z,sleeper,Rhamondre Stevenson,RB,NE,rush_yds,54.5,1.79
+2026-11-03T13:51:07.595Z,sleeper,Christian Watson,WR,GB,anytime_touchdowns,0.5,2.45
+2026-11-03T13:51:07.595Z,sleeper,Christian Watson,WR,GB,longest_reception,27.5,1.82
+2026-11-03T13:51:07.595Z,sleeper,Christian Watson,WR,GB,rec_yds,72.5,1.77
+2026-11-03T13:51:07.595Z,sleeper,Christian Watson,WR,GB,receptions,4.5,1.61
+2026-11-03T13:51:07.595Z,sleeper,Tucker Kraft,TE,GB,anytime_touchdowns,0.5,2.87
+2026-11-03T13:51:07.595Z,sleeper,Tucker Kraft,TE,GB,longest_reception,17.5,1.77
+2026-11-03T13:51:07.595Z,sleeper,Tucker Kraft,TE,GB,rec_yds,45.5,1.79
+2026-11-03T13:51:07.595Z,sleeper,Tucker Kraft,TE,GB,receptions,4.5,1.77
+2026-11-03T13:51:07.595Z,sleeper,DeMario Douglas,WR,NE,anytime_touchdowns,0.5,2.65
+2026-11-03T13:51:07.595Z,sleeper,Drake Maye,QB,NE,fantasy_pts,18.9,1.78
+2026-11-03T13:51:07.595Z,sleeper,Matthew Golden,WR,GB,fantasy_pts,13.9,1.79
+2026-11-03T13:51:07.595Z,sleeper,Josh Jacobs,RB,GB,fantasy_pts,14.4,1.77
+2026-11-03T13:51:07.595Z,sleeper,Christian Watson,WR,GB,fantasy_pts,14.2,1.78
+2026-11-03T13:51:07.595Z,sleeper,Tucker Kraft,TE,GB,fantasy_pts,10.4,1.78
+2026-11-03T13:51:07.595Z,sleeper,Devaughn Vele,WR,NO,anytime_touchdowns,0.5,2.99
+2026-11-03T13:51:07.595Z,sleeper,Harold Fannin Jr.,TE,CLE,anytime_touchdowns,0.5,2.97
+2026-11-03T13:51:07.595Z,sleeper,Quinshon Judkins,RB,CLE,anytime_touchdowns,0.5,2.09
+2026-11-03T13:51:07.595Z,sleeper,KC Concepcion Jr.,WR,CLE,anytime_touchdowns,0.5,3.12
+2026-11-03T13:51:07.595Z,sleeper,Denzel Boston,WR,CLE,anytime_touchdowns,0.5,3.09
+2026-11-03T13:51:07.595Z,sleeper,Chris Olave,WR,NO,anytime_touchdowns,0.5,2.34
+2026-11-03T13:51:07.595Z,sleeper,Dylan Sampson,RB,CLE,fantasy_pts,6.3,1.78
+2026-11-03T13:51:07.595Z,sleeper,Denzel Boston,WR,CLE,fantasy_pts,9.3,1.78
+2026-11-03T13:51:07.595Z,sleeper,Malik Nabers,WR,NYG,anytime_touchdowns,0.5,2.41
+2026-11-03T13:51:07.595Z,sleeper,Cam Skattebo,RB,NYG,anytime_touchdowns,0.5,2.01
+2026-11-03T13:51:07.595Z,sleeper,Isaiah Likely,TE,NYG,anytime_touchdowns,0.5,2.84
+2026-11-03T13:51:07.595Z,sleeper,J.J. McCarthy,QB,NYG,fantasy_pts,15.5,1.78
+2026-11-03T13:51:07.595Z,sleeper,Isaiah Likely,TE,NYG,fantasy_pts,12.3,1.78
+2026-11-03T13:51:07.595Z,sleeper,Nico Collins,WR,HOU,anytime_touchdowns,0.5,2.14
+2026-11-03T13:51:07.595Z,sleeper,Dalton Schultz,TE,HOU,fantasy_pts,8.3,1.77
+2026-11-03T13:51:07.595Z,sleeper,Brock Bowers,TE,LV,anytime_touchdowns,0.5,2.27
+2026-11-03T13:51:07.595Z,sleeper,Ashton Jeanty,RB,LV,anytime_touchdowns,0.5,2.05
+2026-11-03T13:51:07.595Z,sleeper,Christian McCaffrey,RB,SF,anytime_touchdowns,0.5,1.37
+2026-11-03T13:51:07.595Z,sleeper,Jayden Daniels,QB,WAS,anytime_touchdowns,0.5,3.12
+2026-11-03T13:51:07.595Z,sleeper,Blake Corum,RB,LAR,anytime_touchdowns,0.5,1.97
+2026-11-03T13:51:07.595Z,sleeper,Stefon Diggs,WR,WAS,anytime_touchdowns,0.5,2.75
+2026-11-03T13:51:07.595Z,sleeper,Rachaad White,RB,WAS,anytime_touchdowns,0.5,2.24
+2026-11-03T13:51:07.595Z,sleeper,Kyren Williams,RB,LAR,anytime_touchdowns,0.5,1.67
+2026-11-03T13:51:07.595Z,sleeper,Puka Nacua,WR,LAR,anytime_touchdowns,0.5,1.73
+2026-11-03T13:51:07.595Z,sleeper,Dalton Kincaid,TE,BUF,anytime_touchdowns,0.5,2.65
+2026-11-03T13:51:07.595Z,sleeper,DJ Moore,WR,BUF,anytime_touchdowns,0.5,2.54
+2026-11-03T13:51:07.595Z,sleeper,Josh Allen,QB,BUF,anytime_touchdowns,0.5,1.62
+2026-11-03T13:51:07.595Z,sleeper,T.J. Hockenson,TE,MIN,anytime_touchdowns,0.5,2.77
+2026-11-03T13:51:07.595Z,sleeper,Justin Jefferson,WR,MIN,anytime_touchdowns,0.5,2.45
+2026-11-03T13:51:07.595Z,sleeper,Khalil Shakir,WR,BUF,anytime_touchdowns,0.5,2.65
+2026-11-03T13:51:07.595Z,sleeper,James Cook III,RB,BUF,anytime_touchdowns,0.5,1.75
+2026-11-03T13:51:07.595Z,sleeper,Jordan Addison,WR,MIN,anytime_touchdowns,0.5,3.21
+2026-11-03T13:51:07.595Z,sleeper,T.J. Hockenson,TE,MIN,fantasy_pts,10.3,1.78
+2026-11-03T13:51:07.595Z,sleeper,Kyler Murray,QB,MIN,fantasy_pts,16.8,1.78
+2026-11-03T13:51:07.595Z,sleeper,Dawson Knox,TE,BUF,fantasy_pts,3.2,1.79
